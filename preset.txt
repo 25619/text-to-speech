@@ -1,4 +1,3 @@
-|This is a comment. Comments start with a pipe.
 name:example
 content:This is an example preset. Hello world!
 -----
