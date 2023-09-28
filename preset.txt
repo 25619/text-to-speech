@@ -1,7 +1,7 @@
-name|example
-content|This is an example preset. Hello world!
+example
+This is an example preset. Hello world!
 -----
-name|happy birthday peter
-content|Happy birthday to you... Happy birthday to you... Happy birthday happy birthday... Happy birthday to Peter! Have a great year!
+happy birthday peter
+Happy birthday to you... Happy birthday to you... Happy birthday happy birthday... Happy birthday to Peter! Have a great year!
 -----
 <EOF>
