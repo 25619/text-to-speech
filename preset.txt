@@ -2,6 +2,6 @@ example
 This is an example preset. Hello world!
 -----
 happy birthday peter
-Happy birthday to you... Happy birthday to you... Happy birthday happy birthday... Happy birthday to Peter! Have a great year!
+Happy birthday to you...\nHappy birthday to you...\nHappy birthday\nHappy birthday... Happy birthday to Peter!\n\nHave a great year!
 -----
 <EOF>
