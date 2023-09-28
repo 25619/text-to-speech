@@ -1,0 +1,7 @@
+|This is a comment. Comments start with a pipe.
+
+:start:
+name: "happy birthday peter"
+content: 'Happy birthday to you\nHappy birthday to you\nHappy birthday\nHappy birthday\nHappy birthday to Peter! Have a great year!'
+:end:
+
