@@ -1,7 +1,12 @@
 |This is a comment. Comments start with a pipe.
 
 :start:
+name: "example"
+content: "This is an example preset. Hello world!"
+:end:
+
+:start:
 name: "happy birthday peter"
-content: 'Happy birthday to you\nHappy birthday to you\nHappy birthday\nHappy birthday\nHappy birthday to Peter! Have a great year!'
+content: 'Happy birthday to you... Happy birthday to you... Happy birthday happy birthday... Happy birthday to Peter! Have a great year!'
 :end:
 
