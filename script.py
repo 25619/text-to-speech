@@ -22,7 +22,9 @@ while True:
     for i in preset:
       print(f"{counter}. {i}")
       counter += 1
-    engine.say(preset[input("I wanna play number ")[0]])
+    select = preset[input("I wanna play number ")[0]]
+    print(select)
+    engine.say(select)
     engine.runAndWait()
     input("Press ENTER to end...")
     break
